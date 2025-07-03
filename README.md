@@ -47,14 +47,6 @@ Clean the machine with clean.
 
 Check resources and money with remaining.
 
-Resources Managed
-Resource	Initial Amount	Espresso	Latte	Cappuccino
-Water (ml)	400	250	350	200
-Milk (ml)	540	0	75	100
-Coffee Beans (g)	120	16	20	12
-Disposable Cups	9	1	1	1
-Money ($)	550	4	7	6
-
 Important Notes
 The machine requires cleaning after 10 cups of coffee; otherwise, it won’t make more.
 
