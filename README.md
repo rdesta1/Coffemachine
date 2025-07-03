@@ -1,5 +1,4 @@
 
-Description
 This is a Java console-based coffee machine simulator. The program mimics a coffee machine that can sell different types of coffee, refill supplies, collect money, clean itself, and show its current status.
 
 Features
